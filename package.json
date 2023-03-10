@@ -1,0 +1,17 @@
+{        
+    "name": "theme-dark-rabbit",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": ">=0.9.0-pre.1"
+    },
+    "publisher": "El_Vados",
+   "contributes": {
+        "themes": [
+            {
+                "label": "Dark Rabbit",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-rabbit-color-theme.json"
+            }
+        ]
+    }
+}
