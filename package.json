@@ -1,6 +1,7 @@
 {
   "name": "dark-rabbit",
   "displayName": "Dark Rabbit",
+  "description": "",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
