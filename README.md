@@ -2,6 +2,6 @@
 
 This theme is based on Atom One Dark Theme and Dark+ V2 (Experimental)
 
-![Design](https://github.com/vladpantyukhin/theme-dark-rabbit/blob/main/scrin.png)
+![ScreenShot](https://github.com/vladpantyukhin/theme-dark-rabbit/blob/main/screenshot/screenshot.png)
 
-![Design](https://github.com/vladpantyukhin/theme-dark-rabbit/blob/main/scrin2.png)
+![ScreenShot](https://github.com/vladpantyukhin/theme-dark-rabbit/blob/main/screenshot/screenshot2.png)
