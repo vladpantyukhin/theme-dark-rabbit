@@ -1,15 +1,26 @@
 {
   "name": "dark-rabbit",
   "displayName": "Dark Rabbit",
+  "description": "Dark Rabbit Theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": ">=0.9.0-pre.1"
+    "vscode": "^1.76.0"
   },
   "icon": "icon.png",
   "publisher": "El_Vados",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "rabbit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladpantyukhin/theme-dark-rabbit.git"
+  },
   "contributes": {
     "themes": [
       {
