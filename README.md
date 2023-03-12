@@ -12,4 +12,4 @@ This theme includes two colors:
 
 **Support**
 
-Please rate it, it will help make the Dark Rabbit better and better!
+Please rate, it will help make the Dark Rabbit better and better!
