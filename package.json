@@ -2,7 +2,7 @@
   "name": "dark-rabbit",
   "displayName": "Dark Rabbit",
   "description": "Based on mix of Atom One Dark Theme and Dark+ V2 (Experimental)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.76.0"
   },
