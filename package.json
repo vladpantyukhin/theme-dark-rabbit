@@ -1,8 +1,8 @@
 {
   "name": "dark-rabbit",
   "displayName": "Dark Rabbit",
-  "description": "",
-  "version": "1.0.2",
+  "description": "Based on mix of Atom One Dark Theme and Dark+ V2 (Experimental)",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -26,7 +26,12 @@
       {
         "label": "Dark Rabbit",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-rabbit-color-theme.json"
+        "path": "./themes/theme-dark-rabbit.json"
+      },
+      {
+        "label": "Dark Rabbit Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-dark-rabbit-contrast.json"
       }
     ]
   }

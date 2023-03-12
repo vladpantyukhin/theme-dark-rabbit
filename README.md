@@ -1,15 +1,15 @@
 # Dark Rabbit Theme
 
-This theme is based on Atom One Dark Theme and Dark+ V2 (Experimental)
+This theme includes two colors:
 
-**HTML**
+**Dark Rabbit**
 
-![ScreenShot](https://raw.githubusercontent.com/vladpantyukhin/theme-dark-rabbit/main/screenshot/screenshot-html.png)
+![ScreenShot](https://raw.githubusercontent.com/vladpantyukhin/theme-dark-rabbit/main/screenshot/screenshot-dr.png)
 
-**CSS**
+**Dark Rabbit Contrast**
 
-![ScreenShot](https://raw.githubusercontent.com/vladpantyukhin/theme-dark-rabbit/main/screenshot/screenshot-css.png)
+![ScreenShot](https://raw.githubusercontent.com/vladpantyukhin/theme-dark-rabbit/main/screenshot/screenshot-drc.png)
 
-**JS**
+**Support**
 
-![ScreenShot](https://raw.githubusercontent.com/vladpantyukhin/theme-dark-rabbit/main/screenshot/screenshot-js.png)
+Please rate it, it will help make the Dark Rabbit better and better!
